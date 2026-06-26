@@ -42,7 +42,7 @@ calculator/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/javascript-calculator.git
+git clone https://github.com/yash-web267/javascript-calculator.git
 ```
 
 2. Open the project folder.
