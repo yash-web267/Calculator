@@ -80,7 +80,7 @@ While building this project, I practiced:
 
 Made with ❤️ by **Yashi**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/yash-web267
 
 ---
 
